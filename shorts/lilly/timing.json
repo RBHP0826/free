@@ -1,0 +1,53 @@
+{
+ "total": 40.982,
+ "scenes": [
+  {
+   "start": 0.0,
+   "voiceStart": 0.4,
+   "voiceDur": 5.608,
+   "end": 6.283
+  },
+  {
+   "start": 6.283,
+   "voiceStart": 6.558,
+   "voiceDur": 3.761,
+   "end": 10.594
+  },
+  {
+   "start": 10.594,
+   "voiceStart": 10.869,
+   "voiceDur": 2.985,
+   "end": 14.129
+  },
+  {
+   "start": 14.129,
+   "voiceStart": 14.404,
+   "voiceDur": 4.327,
+   "end": 19.006
+  },
+  {
+   "start": 19.006,
+   "voiceStart": 19.281,
+   "voiceDur": 3.953,
+   "end": 23.508
+  },
+  {
+   "start": 23.508,
+   "voiceStart": 23.783,
+   "voiceDur": 3.206,
+   "end": 27.265
+  },
+  {
+   "start": 27.265,
+   "voiceStart": 27.54,
+   "voiceDur": 5.605,
+   "end": 33.42
+  },
+  {
+   "start": 33.42,
+   "voiceStart": 33.695,
+   "voiceDur": 5.487,
+   "end": 40.982
+  }
+ ]
+}
